@@ -1,8 +1,8 @@
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d6246d1a-5dd1-45b3-8b17-e356f7d8aeb6"
-    width="700"
-    height="500"
+    width="450"
+    height="315"
     alt="Vanisha GitHub Profile Banner"
   />
 </div>
