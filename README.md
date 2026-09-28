@@ -1,9 +1,5 @@
 <div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/15841bc7-1072-488c-86d2-101c46725663" 
-    width="100%"
-    alt="Vanisha's GitHub banner"
-  />
+  <img src="YOUR_BANNER_URL" width="100%" alt="Vanisha GitHub Profile Banner">
 </div>
 
 <div align="right">
