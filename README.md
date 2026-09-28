@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="YOUR_BANNER_URL" width="100%" alt="Vanisha GitHub Profile Banner">
+  <img
+    src="https://github.com/user-attachments/assets/4b0732ca-0790-4a2d-a8c1-31a45278b682"
+    width="100%"
+    alt="Vanisha GitHub Profile Banner"
+  />
 </div>
-
 <div align="right">
   <img src="https://github.com/user-attachments/assets/7d4cbf62-c998-477a-98f6-6bba7961fa8e" width="70">
 </div>
