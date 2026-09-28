@@ -4,9 +4,8 @@
 
 ### Hi, I'm Vanisha 👋
 
-✨ Building with code | 💻 Frontend & React.js | 🤖 Exploring Machine Learning | 🎓 B.Tech CSE
-
-Currently learning, building, and figuring things out one project at a time.
+I build things, break things, and learn how to fix them.
+Currently exploring React, AI/ML, and whatever catches my curiosity. ✨
 
 </td>
 
